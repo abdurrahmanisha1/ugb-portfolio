@@ -1,46 +1,6 @@
-
-/*===============================================
-
-Template Name: Itsoft - IT Solutions & Services HTML5 Template
-Version: 0.1
- 
-================================================*/
-
-/*TABLE OF CONTENTS*/
-/*=====================
-01. Itsoft Header Top Area CSS
-02. Itsoft Header middle section style
-03. Itsoft Hero Section Style
-04. Itsoft Nivo Slider Area Css
-05. Itsoft Start Tabs Section
-06. Itsoft Feature Section
-07. Itsoft Start About Section
-08. Itsoft Start Skills section
-09. ITsoft Start Video Section
-10. Itsoft Start Brand Section
-11. Itsoft Start Services Section
-12. Itsoft Start Why Choose Us Section
-13. Itsoft Start Portfolio Section
-14. Itsoft Start Fun-Fact Section
-15. Itsoft Start Team Section
-16. Itsoft Start Appoinment Section
-17. Itsoft Start Case Study Section
-18. Itsoft Start Process Section
-19. Itsoft Start Call Do Action Section
-20. Itsoft Start Testimonial Section
-21. Itsoft Start Blog Section
-22. Itsoft Start Subscribe Section
-23. Itsoft Start Footer Section
-24. Itsoft Start Footer Copyright Section
-25. Itsoft Start Breadcumb area style
-26. Itsoft Start Pricing Section Style
-27. Itsoft Start Case Study Details
-25. techno Team Details Area Css
-
-=======================*/
-
-
-/*------Itsoft Header Top Area CSS--------*/
+*{
+  scroll-behavior: smooth !important;
+}
 .container {
   padding-left: 0;
   padding-right: 0;
