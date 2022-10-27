@@ -111,7 +111,7 @@ header {
   display: block !important;
 }
 .logo-txt::before {
-  content:"ITSOFT";
+  content:"PORTFOLIO";
   text-transform: uppercase;
   color:#fff;
   font-size: 18px;
